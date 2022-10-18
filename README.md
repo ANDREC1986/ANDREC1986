@@ -1,7 +1,9 @@
-## Olá, eu sou André Carvalhal.
-### Desenvolver Full Stackk.
-
-<div style="display: flex"
+### Olá, eu sou André Carvalhal.
+**Atualmente estou Cursando a Faculdade Desenvolvimento Full Stack.**<br>
+Em 2005 cursei a Faculdade Analise e Desenvolvimento Web porém por motivos pessoais não concluí, trancando no terceiro periodo.<br>
+Ao longo dos anos participei de alguns cursos livres sobre React, ReatNative, UnityEngine e paraticipei de alguns projetos de desenvolvimento Web com PHP, HTML, CSS, XML e JS.
+<br>
+#### Status GuitHub:
 <a href="https://github.com/andrec1986">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrec1986&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrec1986&layout=compact&langs_count=7&theme=github_dark"/>

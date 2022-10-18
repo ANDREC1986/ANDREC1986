@@ -6,8 +6,8 @@ Ao longo dos anos participei de alguns cursos livres sobre React, ReatNative, Un
 #### Status GuitHub:
 <div>
 <a href="https://github.com/andrec1986">
-<img height="150em" width="39%" src="https://github-readme-stats.vercel.app/api?username=andrec1986&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="150em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrec1986&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrec1986&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<? <img height="150em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrec1986&layout=compact&langs_count=7&theme=github_dark"/>
 </div></a>
 
 ##

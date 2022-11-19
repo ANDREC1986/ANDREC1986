@@ -1,0 +1,16 @@
+data,valor,tipo
+10,100,alimentação
+20,0,alimentação
+30,0,alimentação
+40,150,alimentação
+50,20,alimentação
+10,20,vestuario
+20,30,vestuario
+30,50,vestuario
+40,10,vestuario
+50,45,vestuario
+10,0,transporte
+20,0,transporte
+30,100,transporte
+40,300,transporte
+50,50,transporte

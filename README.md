@@ -1,7 +1,8 @@
 ### Olá, eu sou André Carvalhal.
 **Atualmente estou Cursando a Faculdade Desenvolvimento Full Stack.**<br>
-Em 2005 cursei a Faculdade Analise e Desenvolvimento Web porém por motivos pessoais não concluí, trancando no terceiro periodo.<br>
+Em 2005 cursei a Faculdade Analise e Desenvolvimento Web porém por motivos pessoais não concluí, trancando no quarto periodo.<br>
 Ao longo dos anos participei de alguns cursos livres sobre React, ReatNative, UnityEngine e participei de alguns projetos de desenvolvimento Web com PHP, HTML, CSS, XML e JS.
+Atualmente no quarto periodo de Desenvolvimento Full Stack (Estácio)
 <br>
 
 ##
